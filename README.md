@@ -34,8 +34,7 @@ The repository is organized as follows:
 📦 Algorithms-and-Data-Structures-C
  ├── README.md
  ├── arrays/
- │   ├── array_operations.c
- │   └── array_operations.h
+ │   └── array_operations.c
  ├── linked_lists/
  │   ├── singly_linked_list.c
  │   └── doubly_linked_list.c
@@ -52,6 +51,7 @@ The repository is organized as follows:
  └── graphs/
      ├── adjacency_matrix.c
      └── adjacency_list.c
+
 
 ```
 # Arrays in C
